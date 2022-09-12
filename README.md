@@ -4,3 +4,6 @@ The annotations provided at the original site are not in the Pascal VOC format. 
 here1: http://shuoyang1213.me/WIDERFACE/
 
 here2: http://shuoyang1213.me/WIDERFACE/support/bbx_annotation/wider_face_split.zip
+
+Download the zip file for the Pascal Voc annotations here.
+https://www.kaggle.com/datasets/benjaminsatadana/wider-face-train-set-xml-annotation-files
